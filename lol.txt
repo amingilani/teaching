@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 this is a lol file
 
 this is an additional change.
 
 another line
+=======
+this is a lol file
+>>>>>>> parent of 7eb572b... write another line
